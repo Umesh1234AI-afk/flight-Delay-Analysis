@@ -83,12 +83,7 @@ Busy airports experience higher delay frequencies.
 
 # Departure Delay Distribution
 
-plt.figure(figsize=(10,6))
-sns.histplot(df['Dep_Delay'], bins=40, kde=True)
-plt.title('Distribution of Departure Delay')
-plt.xlabel('Delay (Minutes)')
-plt.ylabel('Frequency')
-plt.show()
+![Departure Delay](departure_delay.png)
 
 # Insight
 
