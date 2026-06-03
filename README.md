@@ -8,14 +8,20 @@ Umesh Chandra
 
 Data Analysis / Exploratory Data Analysis (EDA)
 
-#Tools Used
+# Tools Used
 
 Python
+
 Pandas
+
 NumPy
+
 Matplotlib
+
 Seaborn
+
 Jupyter Notebook
+
 Dataset
 
 # Flight Delay Dataset containing 4,821 flight records and 18 operational features.
