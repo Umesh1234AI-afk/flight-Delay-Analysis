@@ -73,15 +73,16 @@ Duplicate records removed successfully.
 Dataset ready for analysis.
 
 # Hypothesis
-H1: Departure Delay Impacts Arrival Delay
+
+# Departure Delay Impacts Arrival Delay
 
 Flights departing late are likely to arrive late.
 
-H2: Weather Conditions Increase Delays
+# Weather Conditions Increase Delays
 
 Severe weather contributes significantly to operational disruptions.
 
-H3: Airport Traffic Influences Delays
+# Airport Traffic Influences Delays
 
 Busy airports experience higher delay frequencies.
 
