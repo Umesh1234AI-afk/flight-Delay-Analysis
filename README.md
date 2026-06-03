@@ -90,12 +90,7 @@ Most flights experience small delays while a few flights show extremely high del
 
 # Arrival Delay Distribution
 
-plt.figure(figsize=(10,6))
-sns.histplot(df['Arrival_Delay'], bins=40, kde=True)
-plt.title('Distribution of Arrival Delay')
-plt.xlabel('Delay (Minutes)')
-plt.ylabel('Frequency')
-plt.show()
+![Arrival Delay](Arrival%20delay.png)
 
 # Insight
 Majority of flights arrive near schedule.
@@ -104,10 +99,7 @@ Presence of outliers indicates operational disruptions.
 
 # Flight Distance Distribution
 
-plt.figure(figsize=(10,6))
-sns.histplot(df['Distance'], bins=30, kde=True)
-plt.title('Distribution of Flight Distance')
-plt.show()
+![Flight Distance](Flight%20distance.png)
 
 # Insight
 Most flights are short-to-medium haul.
@@ -115,10 +107,8 @@ Long-distance flights are comparatively fewer.
 Distribution shows right skewness.
 
 # Weather Delay Impact
-plt.figure(figsize=(10,6))
-sns.histplot(df['WeatherDelay'], bins=35, kde=True)
-plt.title('Weather Delay Distribution')
-plt.show()
+
+![Weather Delay](Weather%20delay.png)
 
 # Insight
 
@@ -127,18 +117,7 @@ Severe weather creates large delays for a small number of flights.
 
 # Correlation Heatmap 
 
-plt.figure(figsize=(12,8))
-
-corr=df.select_dtypes(include='number').corr()
-
-sns.heatmap(
-    corr,
-    annot=True,
-    cmap='coolwarm'
-)
-
-plt.title("Correlation Heatmap")
-plt.show()
+![Correlation Heatmap](Correlation%20heatmap.png
 
 # Most Important Finding
 
