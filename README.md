@@ -81,15 +81,12 @@ Busy airports experience higher delay frequencies.
 
 # Key Visualizations
 
-# Departure Delay Distribution
+## Departure Delay Distribution
 
-![Departure Delay](departure_delay.png)
+<img src="departure delay.png" width="700">
 
-# Insight
-
-Most flights experience little or no delay.
-Distribution is positively skewed.
-A small number of flights have extremely high delays.
+### Insight
+Most flights experience small delays while a few flights show extremely high delays.
 
 # Arrival Delay Distribution
 
