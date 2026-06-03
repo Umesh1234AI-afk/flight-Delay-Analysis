@@ -1,4 +1,5 @@
 # Flight Delay Analysis – Exploratory Data Analysis (EDA)
+
 Author
 
 Umesh Chandra
@@ -19,7 +20,7 @@ Dataset
 
 # Flight Delay Dataset containing 4,821 flight records and 18 operational features.
 
-. # Project Overview
+# Project Overview
 
 Air transportation plays a critical role in modern travel and logistics. Flight delays can cause passenger dissatisfaction, operational inefficiencies, and financial losses for airlines. This project aims to analyze flight delay patterns and identify the major factors contributing to delays.
 
