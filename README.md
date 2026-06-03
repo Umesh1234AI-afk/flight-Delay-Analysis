@@ -90,7 +90,7 @@ Most flights experience small delays while a few flights show extremely high del
 
 # Arrival Delay Distribution
 
-![Arrival Delay](Arrival%20delay.png)
+![arrival Delay](Arrival%20delay.png)
 
 # Insight
 Majority of flights arrive near schedule.
@@ -108,7 +108,7 @@ Distribution shows right skewness.
 
 # Weather Delay Impact
 
-![Weather Delay](Weather%20delay.png)
+![weather Delay](Weather%20delay.png)
 
 # Insight
 
