@@ -89,8 +89,7 @@ Busy airports experience higher delay frequencies.
 Most flights experience small delays while a few flights show extremely high delays.
 
 # Arrival Delay Distribution
-
-![arrival Delay](Arrival%20delay.png)
+![Arrival Delay](arrival%20delay.png)
 
 # Insight
 Majority of flights arrive near schedule.
@@ -108,7 +107,7 @@ Distribution shows right skewness.
 
 # Weather Delay Impact
 
-![weather Delay](Weather%20delay.png)
+![Weather Delay](weather%20delay.png)
 
 # Insight
 
