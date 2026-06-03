@@ -83,7 +83,7 @@ Busy airports experience higher delay frequencies.
 
 ## Departure Delay Distribution
 
-<img src="departure delay.png" width="700">
+![Departure Delay](Departure%20delay.png)
 
 ### Insight
 Most flights experience small delays while a few flights show extremely high delays.
